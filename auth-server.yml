@@ -8,7 +8,6 @@ server:
 
 
 security.user.password: password
-security.user.name: user1
 
 security.oauth2.client:
   clientId: acme
